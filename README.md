@@ -1,3 +1,4 @@
-# AI-Temp
-The plan for this project is to implement the ChatGPT API in combination with a new programming language to be determined soon. Looking at possibly
-doing something with TypeScript or even C++??
+# AI Chatbot
+I've decided to create a chatbot web application using ChatGPT's API and using a new language, TypeScript.
+I want to make a general chatbot that's supplied with some background on its behavior, but I want to also
+include other variations, creating different responses depending on the background a user selects.
